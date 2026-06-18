@@ -1,0 +1,215 @@
+# depslib dependency file v1.0
+1781713464 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1781100559 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\persona.h
+
+1781712377 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\archivousuario.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Usuario.h"
+	"ArchivoUsuario.h"
+
+1781105180 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\fecha.h
+
+1781100337 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\usuario.h
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"persona.h"
+
+1781102513 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\archivousuario.h
+	"Usuario.h"
+
+1781712136 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\archivocancion.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Cancion.h"
+	"ArchivoCancion.h"
+
+1781192417 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\cancion.h
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"Fecha.h"
+
+1781102694 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\archivocancion.h
+	"cancion.h"
+
+1781711391 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1781712136 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\archivoacceso.cpp
+	<iostream>
+	<cstring>
+	"Acceso.h"
+	"ArchivoAcceso.h"
+
+1781102898 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\acceso.h
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"fecha.h"
+	<ctime>
+
+1781103087 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\archivoacceso.h
+	"acceso.h"
+
+1781103414 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\archivointerprete.cpp
+	<iostream>
+	<cstring>
+	"Interprete.h"
+	"ArchivoInterprete.h"
+
+1781103310 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\interprete.h
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1781103484 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\archivointerprete.h
+	"interprete.h"
+
+1781713829 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"Funciones.h"
+	"Informes.h"
+	"Funciones.h"
+	"usuario.h"
+	"Cancion.h"
+	"acceso.h"
+	"interprete.h"
+	"genero.h"
+	"ArchivoUsuario.h"
+	"ArchivoCancion.h"
+
+1781623111 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\funciones.h
+
+1781101899 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\informes.h
+
+1781538260 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\funciones_globales.h
+
+1781103781 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\genero.h
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1781103781 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\archivogenero.cpp
+	<iostream>
+	<cstring>
+	"Genero.h"
+	"ArchivoGenero.h"
+
+1781104297 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\archivogenero.h
+	"genero.h"
+
+1781539092 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\funciones_globales.cpp
+	<iostream>
+	"Fecha.h"
+	"Usuario.h"
+	"ArchivoUsuario.h"
+	"ArchivoCancion.h"
+	"ArchivoAcceso.h"
+	"ArchivoInterprete.h"
+	"ArchivoGenero.h"
+	"Funciones.h"
+
+1781712777 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\genero.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"Funciones.h"
+	"ArchivoGenero.h"
+	"genero.h"
+
+1781713464 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\interprete.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"Funciones.h"
+	"ArchivoInterprete.h"
+	"interprete.h"
+
+1781714070 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\informes.cpp
+	<iostream>
+	"informes.h"
+	"ArchivoAcceso.h"
+	"ArchivoUsuario.h"
+	"ArchivoCancion.h"
+	"ArchivoInterprete.h"
+	"ArchivoGenero.h"
+
+1781704352 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\main.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+	"menues.h"
+	"rlutil.h"
+
+1781716381 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\menues.h
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"usuario.h"
+	"ArchivoUsuario.h"
+
+1781705385 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\menues.cpp
+	<iostream>
+	<cstdlib>
+	"Usuario.h"
+	"Cancion.h"
+	"Acceso.h"
+	"Interprete.h"
+	"Genero.h"
+	"Funciones.h"
+	"Menues.h"
+	"ArchivoUsuario.h"
+	"ArchivoCancion.h"
+	"ArchivoAcceso.h"
+	"ArchivoInterprete.h"
+
+1781713464 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\usuario.cpp
+	"Usuario.h"
+	"Funciones.h"
+	"ArchivoUsuario.h"
+	<cstdlib>
+	<cstring>
+	<iostream>
+
+1781715087 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\acceso.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"Acceso.h"
+	"ArchivoAcceso.h"
+	<ctime>
+
+1781712416 source:c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\cancion.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"Cancion.h"
+	"Funciones.h"
+	"ArchivoCancion.h"
+	"ArchivoGenero.h"
+	"ArchivoInterprete.h"
+
+1750910713 c:\users\cr\desktop\aplicacion de musica 2026\aplicacion de musica\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
